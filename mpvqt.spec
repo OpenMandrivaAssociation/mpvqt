@@ -11,6 +11,7 @@ BuildRequires:  cmake(ECM)
 BuildRequires:  cmake(Qt6Core)
 BuildRequires:  cmake(Qt6Quick)
 BuildRequires:  pkgconfig(mpv)
+BuildRequires:  qt6-qtbase-theme-gtk3
  
 %description
 MpvQt is a libmpv wrapper for Qt Quick 2/Qml.
