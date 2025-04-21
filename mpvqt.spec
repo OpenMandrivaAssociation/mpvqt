@@ -39,6 +39,7 @@ Development headers and link library for building packages which use %{name}.
 %license LICENSES/LGPL* LICENSES/LicenseRef-KDE*
 %doc README.md
 %{_libdir}/libMpvQt.so.1{,.*}
+%{_libdir}/libMpvQt.so.2
  
 %files devel
 %{_includedir}/MpvQt/
